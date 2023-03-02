@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Tech Community Board*
+# Web Development Project 1 - *Community Board*
 
-Submitted by: **Abubeker Abdurahman**
+Submitted by: **Barkot Beyene**
 
-This web app: **Displays a list of events in the Tech Community!**
+This web app: **Displays a list of events related to Women in Leadership!**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -26,9 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/3BMaj70.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/3RNxZcL.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
-GIF created with LiceCap
+
+GIF created with .Licecap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
